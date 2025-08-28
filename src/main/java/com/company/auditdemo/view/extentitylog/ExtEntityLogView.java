@@ -10,4 +10,5 @@ import io.jmix.flowui.view.ViewDescriptor;
 @ViewController(id = "entityLog.view")
 @ViewDescriptor(path = "ext-entity-log-view.xml")
 public class ExtEntityLogView extends EntityLogView {
+
 }
